@@ -1,2 +1,4 @@
 # Knowledge Base
-[RNA secondary structure](./RNA_secondary_structure.md)
+[RNA secondary structure](./RNA_secondary_structure)
+
+[Zettelkasten](Zettelkasten)
